@@ -1,0 +1,9 @@
+C:\Users\mrutkauskas\Desktop\L1, L2, L4\L2\bin\Debug\L2.exe.config
+C:\Users\mrutkauskas\Desktop\L1, L2, L4\L2\bin\Debug\L2.exe
+C:\Users\mrutkauskas\Desktop\L1, L2, L4\L2\bin\Debug\L2.pdb
+C:\Users\mrutkauskas\Desktop\L1, L2, L4\L2\obj\Debug\L2.csprojResolveAssemblyReference.cache
+C:\Users\mrutkauskas\Desktop\L1, L2, L4\L2\obj\Debug\L2.Form1.resources
+C:\Users\mrutkauskas\Desktop\L1, L2, L4\L2\obj\Debug\L2.Properties.Resources.resources
+C:\Users\mrutkauskas\Desktop\L1, L2, L4\L2\obj\Debug\L2.csproj.GenerateResource.Cache
+C:\Users\mrutkauskas\Desktop\L1, L2, L4\L2\obj\Debug\L2.exe
+C:\Users\mrutkauskas\Desktop\L1, L2, L4\L2\obj\Debug\L2.pdb
