@@ -1,0 +1,5 @@
+﻿Antanas Skema
+Anyksciu silelis
+Piktadarys;7;8
+Petras;2;9
+Antanas;9;2
